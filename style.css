@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-family: futura;
+    font-style: italic;
+    text-shadow: darkred;
+}
+
+h2 {
+    color: rgb(236, 19, 236);
+}
+
+.dragBarLinks {
+    line-height: 6pt;
+    color: blue
+}
+p.dragBarLinks {
+    color: pink;
+}
+
+
+.dragBrunchLinks {
+    line-height: 20pt;
+    color: orange
+}
